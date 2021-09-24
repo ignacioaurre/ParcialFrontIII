@@ -1,9 +1,9 @@
-import HistoriaClass from "./components/HistoriaClass";
+import Historia from "./components/Historia";
 
 function App() {
   return (
     <div className="App">
-      <HistoriaClass />
+      <Historia />
     </div>
   );
 }
